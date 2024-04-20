@@ -1,0 +1,32 @@
+.round-image img {
+  border-radius: 50%;
+  width: 150px; /* ajuste conforme necessário */
+  height: 150px; /* ajuste conforme necessário */
+  float: right; /* para alinhar a imagem à esquerda do texto */
+  margin-right: 10px; /* para criar espaço entre a imagem e o texto */
+  transition: transform 0.3s ease-in-out; /* Adicionando a transição */
+}
+
+.image-link {
+  text-decoration: none;
+}
+.round-image {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left-title {
+  align-self: flex-start; /* Alinha à esquerda */
+}
+
+.right-title {
+  align-self: flex-end; /* Alinha à direita */
+}
+
+.space-between-text-and-images {
+  margin-bottom: 20px; /* Adiciona 20 pixels de margem inferior */
+}
+.link-sabores {
+  color: inherit; /* A cor será herdada do texto circundante */
+  text-decoration: underline; /* Adiciona sublinhado para indicar que é um link */
+}

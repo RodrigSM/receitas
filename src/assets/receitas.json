@@ -1,0 +1,375 @@
+[
+    {
+      "imagem":"pastel.png",
+      "nome": "Pastel de Chaves",
+      "historia":"O pastel de Chaves tem suas origens na cidade de Chaves, localizada na região norte de Portugal. Sua história remonta aos tempos antigos, onde era um alimento popular entre os habitantes locais. Inicialmente, os pasteis eram preparados como uma refeição prática para os trabalhadores da região, sendo facilmente transportados e consumidos durante o dia. Com o tempo, o pastel de Chaves tornou-se uma especialidade reconhecida não apenas em Chaves, mas em todo o país. Sua fama cresceu à medida que viajantes e visitantes experimentavam seu sabor único e delicioso. Hoje em dia, o pastel de Chaves é apreciado por pessoas de todas as idades e é considerado um símbolo da culinária portuguesa, representando a tradição e o sabor autêntico da região.",
+      "descricao": {
+        "texto": "O pastel de Chaves é uma iguaria tradicional da culinária portuguesa, originária da região de Trás-os-Montes, mais especificamente da cidade de Chaves. É um petisco apreciado por sua simplicidade e sabor reconfortante. Sua massa tenra e crocante envolve um recheio suculento de carne de porco temperada com uma combinação de especiarias e ervas aromáticas. A cebola e o alho refogados adicionam profundidade de sabor, enquanto a folha de louro perfuma o recheio de maneira sutil. O toque opcional da massa de pimentão confere um sabor extra e um tom avermelhado ao recheio. Ao morder um pastel de Chaves, és recebido pela textura macia da massa, que contrasta com a carne picante e suculenta em seu interior. O aroma irresistível que se espalha enquanto os pastéis assam no forno é uma antecipação deliciosa do prazer gastronómico que está por vir. Servido como lanche rápido, acompanhamento de uma refeição ou até mesmo como parte de um banquete, o pastel de Chaves é uma verdadeira delícia para os amantes da comida portuguesa. Sua simplicidade e sabor autêntico fazem dele uma escolha popular em qualquer ocasião."
+      },
+      "receita": {
+        "ingredientes": {
+          "massa": [
+            "500g de farinha de trigo",
+            "200ml de água",
+            "100g de banha",
+            "Sal q.b."
+          ],
+          "recheio": [
+            "500g de carne de porco picada",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "2 colheres de sopa de azeite",
+            "1 folha de louro",
+            "Pimenta preta moída q.b.",
+            "Sal q.b.",
+            "Massa de pimentão a gosto (opcional)",
+            "Ovo batido para pincelar"
+          ]
+        },
+        "instrucoes": [
+          "Preparo da massa:",
+          "- Numa tigela grande, misture a farinha com uma pitada de sal.",
+          "- Adicione a banha e amasse até obter uma mistura granulada.",
+          "- Acrescente a água aos poucos enquanto continua a amassar até formar uma massa homogénea.",
+          "- Cubra a massa e deixe-a descansar por pelo menos 30 minutos.",
+          "Preparo do recheio:",
+          "- Numa panela, aqueça o azeite e refogue a cebola e o alho até ficarem dourados.",
+          "- Adicione a carne de porco picada e tempere com sal, pimenta, folha de louro e massa de pimentão (se estiver a usar).",
+          "- Cozinhe a carne até ficar bem cozida e os sabores estarem bem incorporados. Deixe arrefecer.",
+          "Montagem dos pastéis:",
+          "- Pré-aqueça o forno a 180°C.",
+          "- Divida a massa em pequenas porções e abra cada porção em formato circular, formando discos finos.",
+          "- Coloque uma porção do recheio no centro de cada disco de massa.",
+          "- Dobre a massa sobre o recheio, formando um semicírculo, e pressione as bordas para selar.",
+          "- Use um garfo para pressionar as bordas novamente, garantindo que estejam bem fechadas.",
+          "- Pincele os pastéis com ovo batido para dar um brilho dourado.",
+          "Assar:",
+          "- Coloque os pastéis numa assadeira forrada com papel vegetal.",
+          "- Asse no forno pré-aquecido por cerca de 20-25 minutos, ou até que fiquem dourados e crocantes.",
+          "Servir:",
+          "- Sirva os pastéis de Chaves quentes ou frios, acompanhados de uma salada ou como petisco."
+        ]
+      }
+    },
+    {
+      "imagem": "folar.png",
+      "nome": "Folar de Chaves",
+      "historia": "O Folar de Chaves tem origens antigas e profundas na região de Trás-os-Montes, onde a tradição de assar pães festivos remonta a tempos imemoriais. Originalmente, o folar era preparado como uma oferenda para comemorar a Páscoa, um momento sagrado no calendário cristão. Com o tempo, a prática de fazer folares se espalhou para outras festividades, como o Natal, tornando-se uma tradição enraizada na cultura local. O processo de preparação do folar muitas vezes envolve toda a família, reunindo gerações em torno da mesa para compartilhar histórias, risadas e, é claro, deliciosas fatias de folar. Cada região e cada família pode ter sua própria receita especial de folar, transmitida de geração em geração, mas o espírito de partilha e celebração é sempre o mesmo.",
+      "descricao": {
+        "texto": "O Folar de Chaves é uma iguaria tradicional da culinária portuguesa, especialmente popular na região de Trás-os-Montes e, como o nome sugere, na cidade de Chaves. É um pão doce que é preparado em ocasiões especiais,como na Páscoa e também é apreciado ao longo do ano. No interior, pode conter uma variedade de recheios, como carne de porco, presunto, chouriço dependendo da preferência regional e pessoal. O Folar de Chaves é uma expressão da tradição e da cultura gastronômica portuguesa, trazendo consigo séculos de história e sabor autêntico."
+      },
+      "receita": {
+        "ingredientes": {
+          "massa": [
+            "500g de farinha de trigo",
+            "100g de açúcar",
+            "100ml de leite morno",
+            "100ml de água morna",
+            "50g de fermento de padeiro fresco (ou equivalente em fermento seco)",
+            "2 ovos",
+            "75g de manteiga derretida",
+            "1 pitada de sal",
+            "1 colher de sopa de erva-doce"
+          ],
+          "recheio": [
+            "200g de chouriço",
+            "200g de presunto",
+            "4 ovos cozidos",
+            "100g de toucinho",
+            "Frutas cristalizadas a gosto (opcional)"
+          ]
+        },
+        "instrucoes": [
+          "Preparação da massa:",
+          "- Dissolva o fermento no leite morno.",
+          "- Em uma tigela grande, misture a farinha, o açúcar, o sal e a erva-doce.",
+          "- Adicione os ovos, a manteiga derretida, o fermento dissolvido e a água morna à mistura de farinha.",
+          "- Amasse até obter uma massa macia e elástica.",
+          "- Cubra a massa com um pano limpo e deixe-a descansar até dobrar de volume, cerca de 1 hora.",
+          "Montagem do folar:",
+          "- Divida a massa em duas partes iguais.",
+          "- Estenda uma das partes da massa em forma retangular.",
+          "- Distribua uniformemente os ingredientes de recheio sobre a massa estendida.",
+          "- Enrole a massa, formando um rolo.",
+          "- Repita o processo com a outra metade da massa e os ingredientes restantes.",
+          "- Coloque os rolos em uma assadeira untada e deixe descansar por mais 30 minutos.",
+          "Assar:",
+          "- Pré-aqueça o forno a 180°C.",
+          "- Leve os folares ao forno pré-aquecido e deixe assar por aproximadamente 40-45 minutos, ou até que fiquem dourados e cozidos por dentro.",
+          "- Deixe os folares esfriarem um pouco antes de cortar em fatias e servir."
+        ]
+      }
+    },
+    {
+      "imagem": "cozido.png",
+      "nome": "Cozido à Transmontana",
+      "descricao": {
+      "texto": "O Cozido à Transmontana é um prato tradicional da culinária portuguesa, originário da região de Trás-os-Montes, no norte de Portugal. Este cozido é uma verdadeira celebração dos sabores e ingredientes locais, apresentando uma variedade de carnes, enchidos e vegetais cozidos lentamente em um caldo rico e saboroso. As carnes típicas incluem carne de vaca, carne de porco, frango, chouriço, morcela, e orelha de porco, entre outras. Os vegetais comuns são a couve, batata, cenoura, nabos e feijão-verde. O cozido é servido em etapas, começando com uma sopa reconfortante feita com o caldo do cozido e depois seguido pelos diferentes tipos de carne e vegetais. É um prato que une famílias e amigos ao redor da mesa em ocasiões especiais, proporcionando uma experiência gastronômica memorável e cheia de sabor."
+      },
+      "historia": "O Cozido à Transmontana tem raízes profundas na região de Trás-os-Montes, onde as tradições culinárias são passadas de geração em geração. Sua origem remonta aos tempos antigos, quando as famílias locais preparavam esse prato em grandes panelas sobre o fogo, aproveitando os ingredientes disponíveis na região. O cozido era frequentemente servido em celebrações, festas e ocasiões especiais, reunindo pessoas ao redor da mesa para compartilhar histórias, risadas e, é claro, comida deliciosa. Ao longo dos anos, o Cozido à Transmontana tornou-se um símbolo da hospitalidade e generosidade transmontana, refletindo a riqueza da terra e a tradição de bem receber os visitantes. Hoje, é um prato apreciado não apenas na região de Trás-os-Montes, mas em todo o país, celebrando a riqueza da culinária portuguesa e sua capacidade de unir pessoas através da comida.",
+      "receita": {
+        "ingredientes": {
+          "carnes": [
+            "300g de carne de vaca",
+            "200g de carne de porco",
+            "200g de frango",
+            "1 chouriço",
+            "1 morcela",
+            "Orelha de porco (opcional)",
+            "Pés de porco (opcional)"
+          ],
+          "vegetais": [
+            "2 cenouras",
+            "2 batatas",
+            "1 nabo",
+            "1 couve lombarda",
+            "200g de feijão-verde",
+            "Sal q.b."
+          ],
+          "temperos": [
+            "2 folhas de louro",
+            "Pimenta preta q.b.",
+            "Cravinho q.b."
+          ]
+        },
+        "instrucoes": [
+          "Preparação das carnes e enchidos:",
+          "- Coloque as carnes e os enchidos em uma panela grande com água fria.",
+          "- Leve ao fogo e deixe ferver por alguns minutos, removendo a espuma que se forma na superfície.",
+          "- Reduza o fogo e cozinhe lentamente por cerca de 1 hora.",
+          "Preparação dos vegetais:",
+          "- Descasque e corte os vegetais em pedaços médios.",
+          "- Adicione os vegetais à panela com as carnes e cozinhe por mais 30 minutos, ou até que estejam macios.",
+          "Servir:",
+          "- Sirva o cozido à transmontana em pratos fundos, começando com a sopa feita com o caldo do cozido, seguida pelas carnes e vegetais.",
+          "- Acompanhe com broa de milho, azeite e pimenta."
+        ]
+      }
+    },
+    
+  { 
+    "imagem": "presunto-bisaro.jpg",
+    "nome": "Presunto de Chaves",
+    "historia": "O Presunto de Chaves é uma especialidade da cidade de Chaves, localizada na região norte de Portugal. Sua história remonta a tempos antigos, onde era preparado como uma forma de conservar a carne de porco. O presunto é tradicionalmente curado e defumado, resultando em um sabor rico e delicioso. Com o tempo, tornou-se um alimento apreciado não apenas em Chaves, mas em todo o país, sendo frequentemente servido como entrada em festas e celebrações. O Presunto de Chaves é valorizado por sua textura suculenta e sabor salgado, tornando-se uma escolha popular para os amantes de carne em toda Portugal.",
+    "descricao": {
+      "texto": "O Presunto de Chaves é uma iguaria defumada e curada, conhecida por sua textura suculenta e sabor salgado. Feito a partir da perna traseira do porco, o presunto é cuidadosamente preparado e curado com sal durante várias semanas. Após o período de cura, é lavado e pendurado para secar em um ambiente fresco e arejado. Em seguida, é defumado lentamente em fumaça de lenha, o que lhe confere um sabor característico e aroma delicioso. O Presunto de Chaves é muitas vezes servido em fatias finas como entrada, acompanhado de pão fresco e queijo. Também pode ser utilizado como ingrediente em uma variedade de pratos, acrescentando sabor e profundidade às receitas. Seja como entrada ou ingrediente principal, o Presunto de Chaves é uma escolha versátil e saborosa para qualquer ocasião."
+    },
+    "receita": {
+      "ingredientes": [],
+      "instrucoes": []
+    }
+  },
+
+  {
+    "imagem":"cozido.png",
+    "nome": "Feijoada à Transmontana",
+    "historia":"A Feijoada à Transmontana é um prato tradicional da culinária portuguesa, originário da região de Trás-os-Montes, situada no norte de Portugal. É uma refeição rica e reconfortante, preparada com ingredientes locais como feijão, carne de porco e uma variedade de enchidos. Este prato tem raízes antigas, remontando aos tempos em que as comunidades rurais da região utilizavam ingredientes disponíveis localmente para preparar refeições nutritivas e sustentadoras. Ao longo dos anos, a Feijoada à Transmontana tornou-se um símbolo da tradição gastronômica transmontana, apreciada por gerações como uma celebração dos sabores autênticos da região.",
+    "descricao": {
+      "texto":"Uma feijoada rica e reconfortante, característica da região de Trás-os-Montes, Portugal."},
+    "receita": { 
+      "ingredientes": {
+        "carnes": [
+          "300g de carne de porco (como entrecosto, orelha, chouriço)",
+          "200g de carne de vaca (como costela)",
+          "200g de chouriço de carne",
+          "200g de chouriço de sangue",
+          "200g de toucinho",
+          "200g de orelha de porco (opcional)",
+          "200g de pé de porco (opcional)"
+        ],
+        "vegetais": [
+          "500g de feijão encarnado ou preto (previamente demolhado)",
+          "2 cebolas",
+          "3 dentes de alho",
+          "2 folhas de louro",
+          "1 cenoura",
+          "2 tomates",
+          "1 pimento verde",
+          "1 pimento vermelho",
+          "Azeite",
+          "Sal e pimenta a gosto"
+        ],
+        "acompanhamentos": [
+          "Arroz branco cozido",
+          "Laranja cortada em gomos"
+        ]
+      },
+        "instrucoes": [
+          "Comece por cozinhar o feijão. Coloque-o em uma panela grande, cubra com água e cozinhe em fogo médio até ficar macio. Isso pode levar cerca de 1-2 horas, dependendo do tipo de feijão. Escorra e reserve.",
+          "Enquanto o feijão está cozinhando, prepare as carnes. Corte a carne de porco e a carne de vaca em pedaços menores, e corte os chouriços em rodelas.",
+          "Em uma panela grande ou panela de barro, aqueça um pouco de azeite e refogue as cebolas e o alho picados até ficarem macios e dourados.",
+          "Adicione as carnes (carne de porco, carne de vaca, chouriços, toucinho, orelha de porco e pé de porco, se estiver usando) à panela e deixe dourar.",
+          "Acrescente os tomates picados, os pimentos cortados em tiras, a cenoura em rodelas e as folhas de louro. Tempere com sal e pimenta a gosto.",
+          "Adicione o feijão cozido à panela com as carnes e vegetais. Misture bem e deixe cozinhar em fogo baixo por cerca de 30-40 minutos, mexendo ocasionalmente.",
+          "Enquanto a feijoada está cozinhando, prepare o arroz branco cozido e as laranjas cortadas em gomos para servir como acompanhamento.",
+          "Quando estiver pronto para servir, retire as folhas de louro e ajuste o tempero, se necessário.",
+          "Sirva a feijoada à transmontana quente, acompanhada de arroz branco e gomos de laranja. Bom apetite!"
+        ]
+      
+    }
+  },
+
+  {
+    "imagem":"polvo.jpg",
+    "nome": "Polvo à Transmontana",
+    "historia": "O Polvo à Transmontana tem suas origens nas tradições culinárias das comunidades costeiras de Trás-os-Montes, onde o polvo era uma importante fonte de alimento fresco e nutritivo. Ao longo dos anos, as pessoas desenvolveram diferentes maneiras de preparar o polvo, e o Polvo à Transmontana surgiu como uma forma de adaptar esse ingrediente marinho às influências culinárias locais. Este prato era frequentemente preparado em ocasiões festivas e celebrações familiares, reunindo as pessoas ao redor da mesa para compartilhar momentos especiais.",
+    "descricao": {
+      "texto":"O Polvo à Transmontana é uma iguaria típica da região de Trás-os-Montes, em Portugal. É um prato que celebra os sabores autênticos e a tradição culinária desta região montanhosa."},
+    "receita":{
+      "ingredientes": {
+        "polvo": ["1 polvo fresco (aproximadamente 1-1,5 kg)"],
+        "vegetais": [
+          "4 batatas grandes",
+          "4 dentes de alho",
+          "1 cebola grande",
+          "1 folha de louro",
+          "Azeite virgem extra",
+          "Sal q.b."
+        ],
+        "temperos": [
+          "Pimenta preta moída na hora"
+        ]
+      },
+        "instrucoes": [
+          "Pré-aqueça o forno a 180°C.",
+          "Limpe bem o polvo, removendo qualquer impureza e a cabeça (se preferir).",
+          "Em uma panela grande, coloque água suficiente para cobrir o polvo. Adicione uma cebola cortada ao meio, um ramo de salsa, os dentes de alho inteiros e a folha de louro. Leve ao fogo alto até ferver.",
+          "Quando a água estiver fervendo, mergulhe o polvo rapidamente três vezes na água fervente (esse processo ajuda a amaciar o polvo). Em seguida, deixe o polvo cozinhar em fogo médio por cerca de 40-50 minutos, ou até que fique macio. O tempo de cozimento pode variar dependendo do tamanho e da espessura do polvo.",
+          "Enquanto o polvo cozinha, lave bem as batatas e corte-as em rodelas grossas.",
+          "Coloque as batatas em uma assadeira e tempere-as com sal e azeite.",
+          "Quando o polvo estiver cozido, retire-o da panela e corte-o em pedaços pequenos.",
+          "Disponha os pedaços de polvo sobre as batatas na assadeira.",
+          "Regue o polvo e as batatas com um fio de azeite e tempere com pimenta preta moída na hora.",
+          "Leve ao forno pré-aquecido e deixe assar por cerca de 30 minutos, ou até que as batatas estejam macias e douradas e o polvo esteja ligeiramente caramelizado.",
+          "Sirva o Polvo à Transmontana quente, acompanhado de uma salada fresca e pão para absorver os sucos do prato. Bom apetite!"
+        ]
+    }
+  },
+    
+  {
+    "imagem":"alheira.jpg",
+    "nome": "Alheira Transmontana",
+    "historia": "A Alheira Transmontana tem suas raízes na cultura judaica de Portugal durante a Inquisição no século XVI. Os judeus portugueses, enfrentando perseguição religiosa, criaram a alheira como uma maneira de aparentar o consumo de carne de porco, proibida pela lei judaica. Assim, a alheira era feita com uma variedade de carnes alternativas, como aves, coelho e vitela, misturadas com pão e especiarias. Ao longo dos anos, a Alheira Transmontana tornou-se uma especialidade da região de Trás-os-Montes, sendo apreciada por sua tradição e sabor distintivo.",
+    "descricao": {
+      "texto":"A Alheira Transmontana é uma salsicha defumada típica da região de Trás-os-Montes, Portugal. Feita tradicionalmente com uma mistura de carnes, pão, alho e especiarias, esta iguaria é apreciada por seu sabor rico e textura suculenta."}
+    ,
+    "receita": {
+      "ingredientes": [],
+      "instrucoes": []
+    }  
+  },
+  {
+    "imagem":"sopacastanha.jpg",
+    "nome": "Sopa de Castanhas Piladas",
+    "descricao":{
+      "texto": "A Sopa de Castanhas Piladas é uma iguaria reconfortante da culinária portuguesa, especialmente popular nas regiões do interior do país durante os meses mais frios do outono e do inverno. Feita com castanhas piladas e outros ingredientes simples, esta sopa é conhecida por seu sabor rico e textura cremosa."},
+    "historia": "A história da Sopa de Castanhas Piladas remonta às tradições rurais de Portugal, onde as castanhas eram um alimento básico na dieta das comunidades locais. Durante séculos, as castanhas foram valorizadas como uma fonte abundante de alimento e nutrição, especialmente em áreas onde outros alimentos eram escassos. A sopa de castanhas piladas surgiu como uma maneira de aproveitar ao máximo esse ingrediente versátil, transformando-o em uma refeição reconfortante e sustentadora para toda a família. Hoje em dia, a Sopa de Castanhas Piladas é apreciada não apenas por seu valor nutricional, mas também por seu sabor único e tradição cultural.",
+    "receita":{  
+      "ingredientes": {
+        "castanhas": ["500g de castanhas piladas"],
+        "vegetais": [
+          "1 cebola grande, picada",
+          "2 dentes de alho, picados",
+          "2 cenouras, em cubos",
+          "2 batatas, em cubos",
+          "1 alho-poró, fatiado",
+          "1 folha de louro",
+          "1 litro de caldo de legumes ou água",
+          "Azeite",
+          "Sal e pimenta a gosto"
+        ],
+        "opcional": [
+          "Salsa fresca picada para guarnecer"
+        ]
+      },
+      "instrucoes": [
+        "Em uma panela grande, aqueça um pouco de azeite em fogo médio.",
+        "Adicione a cebola e o alho e refogue até ficarem macios e dourados.",
+        "Acrescente as cenouras, as batatas, o alho-poró e a folha de louro à panela e refogue por mais alguns minutos.",
+        "Adicione as castanhas piladas e o caldo de legumes ou água à panela. Tempere com sal e pimenta a gosto.",
+        "Deixe a sopa ferver, depois reduza o fogo e deixe cozinhar por cerca de 30-40 minutos, ou até que os legumes e as castanhas estejam macios.",
+        "Retire a folha de louro da sopa e descarte.",
+        "Usando um liquidificador de imersão, bata a sopa até obter uma textura cremosa.",
+        "Se a sopa estiver muito grossa, adicione mais caldo de legumes ou água até atingir a consistência desejada.",
+        "Prove a sopa e ajuste os temperos, se necessário.",
+        "Sirva a Sopa de Castanhas Piladas quente, polvilhada com salsa fresca picada, se desejar. Acompanhe com pão fresco ou torrado. Bom apetite!"
+      ]
+    }
+  },
+  {
+    "imagem":"Económicos.jpg",
+    "nome": "Bolos Econômicos Transmontanos",
+    "descricao":{
+      "texto": "Os Bolos Econômicos Transmontanos são uma variação dos bolos tradicionais portugueses, com influências da região de Trás-os-Montes. Feitos com ingredientes simples, esses bolos são deliciosos e acessíveis, perfeitos para qualquer ocasião."
+    },
+    "historia": "Os Bolos Econômicos Transmontanos combinam a simplicidade dos bolos econômicos com os sabores tradicionais da região de Trás-os-Montes, conhecida por sua rica gastronomia e ingredientes autênticos. Inspirados pela tradição de aproveitar ao máximo os recursos disponíveis, esses bolos são feitos com ingredientes básicos, como farinha, açúcar, ovos e manteiga, mas podem incorporar sabores locais, como frutas secas, mel ou nozes, para dar um toque especial. Esses bolos são uma expressão da riqueza culinária e da simplicidade reconfortante da vida no interior de Portugal.",
+    "receita":{  
+      "ingredientes": {
+        "secos": [
+          "2 xícaras de farinha de trigo",
+          "1 xícara de açúcar",
+          "1 colher de chá de fermento em pó"
+        ],
+        "molhados": [
+          "3 ovos",
+          "1 xícara de leite",
+          "1/2 xícara de manteiga derretida"
+        ],
+        "opcionais": [
+          "Frutas secas (como passas ou figos secos), picadas",
+          "Nozes ou amêndoas picadas",
+          "Mel, para regar"
+        ]
+      },
+      "instrucoes": [
+        "Pré-aqueça o forno a 180°C e unte uma forma de bolo.",
+        "Em uma tigela grande, misture os ingredientes secos: farinha de trigo, açúcar e fermento em pó.",
+        "Em outra tigela, bata os ovos levemente e adicione o leite e a manteiga derretida.",
+        "Despeje a mistura líquida sobre os ingredientes secos e mexa delicadamente até que tudo esteja bem incorporado. Não misture em excesso.",
+        "Se desejar, adicione as frutas secas e as nozes ou amêndoas picadas à massa e misture.",
+        "Despeje a massa na forma preparada e leve ao forno pré-aquecido.",
+        "Asse por cerca de 30-40 minutos, ou até que um palito inserido no centro do bolo saia limpo.",
+        "Retire do forno e deixe esfriar antes de desenformar.",
+        "Regue os Bolos Econômicos Transmontanos com um pouco de mel antes de servir, se desejar.",
+        "Corte em pedaços e sirva como sobremesa ou lanche. Bom apetite!"
+      ]
+    }
+  },
+  {
+    "imagem":"bacalhau.jpg",
+    "nome": "Bacalhau à Transmontana",
+    "descricao": {
+      "texto":"O Bacalhau à Transmontana é um prato tradicional da região de Trás-os-Montes, Portugal. Feito com bacalhau, batatas, cebolas e outros ingredientes simples, é uma refeição reconfortante e cheia de sabor."},
+    "historia": "O Bacalhau à Transmontana tem suas raízes na rica tradição culinária da região de Trás-os-Montes, conhecida por sua produção de azeite de alta qualidade, vinho e produtos derivados de carne. Durante séculos, o bacalhau foi um alimento básico na dieta portuguesa, especialmente em regiões distantes do mar, como Trás-os-Montes. Este prato foi desenvolvido como uma maneira de aproveitar o bacalhau salgado, combinando-o com ingredientes locais, como batatas, cebolas e azeite, para criar uma refeição substancial e deliciosa. O Bacalhau à Transmontana é uma expressão da simplicidade e da riqueza dos sabores regionais, sendo apreciado por sua autenticidade e sabor reconfortante.",
+    "receita":{  
+      "ingredientes": {
+        "bacalhau": ["600g de bacalhau dessalgado e desfiado"],
+        "batatas": ["500g de batatas cortadas em rodelas"],
+        "cebolas": ["2 cebolas grandes fatiadas"],
+        "azeite": ["1/2 xícara de azeite"],
+        "alho": ["4 dentes de alho picados"],
+        "pimentão": ["1 pimentão vermelho cortado em tiras"],
+        "vinho": ["1/2 xícara de vinho branco seco"],
+        "salsa": ["Salsa picada a gosto"],
+        "sal": ["Sal e pimenta a gosto"]
+      },
+      "instrucoes": [
+        "Pré-aqueça o forno a 180°C.",
+        "Em uma panela grande, aqueça metade do azeite e refogue as cebolas e o alho até ficarem macios e dourados.",
+        "Adicione o bacalhau desfiado à panela e cozinhe por alguns minutos.",
+        "Em outra panela, aqueça o restante do azeite e frite as batatas até dourarem levemente.",
+        "Em uma assadeira, coloque uma camada de batatas no fundo, seguida por uma camada de bacalhau e cebola.",
+        "Repita as camadas até terminar os ingredientes, finalizando com uma camada de batatas por cima.",
+        "Distribua as tiras de pimentão sobre as batatas e regue com o vinho branco.",
+        "Tempere com sal e pimenta a gosto e polvilhe com salsa picada.",
+        "Cubra a assadeira com papel alumínio e leve ao forno por cerca de 30 minutos.",
+        "Retire o papel alumínio e deixe assar por mais 15-20 minutos, ou até que as batatas estejam macias e douradas.",
+        "Sirva o Bacalhau à Transmontana quente, acompanhado de uma salada verde e pão crustoso. Bom apetite!"
+      ]
+    }
+}
+  
+  
+    
+]
+  

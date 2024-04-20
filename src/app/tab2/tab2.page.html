@@ -1,0 +1,64 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="cabecalho-custom">
+    <ion-title>
+      <div class="titulo-custom">História</div>
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Tab 2</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card>
+    <img id="img"  src="./assets/Chaves.jpg"  />
+    <ion-card-header>
+      <ion-card-title>Chaves</ion-card-title>
+    </ion-card-header>
+  
+    <ion-card-content>
+      Chaves é uma cidade situada no norte de Portugal, na região de Trás-os-Montes, conhecida por suas águas termais, pela sua rica história e pelo seu delicioso presunto. A história de Chaves remonta a tempos antigos, tendo sido habitada por diferentes povos ao longo dos séculos. Os romanos foram uma das civilizações que deixaram uma marca significativa na região, construindo as famosas Termas de Chaves em torno das águas termais naturais que fluem na área. Estas termas eram já conhecidas pelos romanos pelos seus supostos poderes medicinais e terapêuticos. Além disso, a cidade é famosa pelo seu presunto, conhecido como "Presunto de Chaves", que é considerado uma verdadeira iguaria gastronómica em Portugal. Os restaurantes locais oferecem uma variedade de pratos tradicionais, onde o presunto de Chaves muitas vezes desempenha o papel principal. Em suma, Chaves é uma cidade encantadora, rica em história, cultura e tradição, que continua a atrair visitantes de todo o mundo com o seu charme singular e as suas águas termais rejuvenescedoras.
+      <div class="space-between-text-and-images"></div>
+      <div class="round-image">
+          <a (click)="termasromanas()" class="image-link">
+              <ion-card-title class="left-title">Termas Romanas</ion-card-title>
+              <img src="./assets/museuagua.jpg" />
+          </a>
+          <a (click)="termasatuais()" class="image-link">
+              <ion-card-title class="right-title">Águas Termais</ion-card-title>
+              <img src="./assets/aguatermal.jpg" />
+          </a>
+      </div>
+      <div></div>
+      <div class="space-between-text-and-images"></div>
+      <div class="round-image">
+        <a (click)="ponte()" class="image-link">
+            <ion-card-title class="left-title">Ponte Romana</ion-card-title>
+            <img src="./assets/ponte_romana.jpg" />
+        </a>
+        <a (click)="castelo()" class="image-link">
+            <ion-card-title class="right-title">Castelo de Chaves</ion-card-title>
+            <img src="./assets/castelo.jpg" />
+        </a>
+    </div>
+    <ion-card-header>
+      <ion-card-title>Sabores de Chaves</ion-card-title>
+    </ion-card-header>
+      <p>"Sabores de Chaves" é uma feira gastronômica que destaca a culinária local da região de Chaves. Nessa feira, os visitantes têm a oportunidade de experimentar uma variedade de pratos tradicionais, produtos regionais e iguarias típicas da região. É uma celebração da rica herança culinária da região, reunindo produtores locais, chefs e entusiastas da gastronomia em um ambiente festivo e delicioso. Para mais informações sobre a feira "Sabores de Chaves", clique neste link: 
+        <a href="https://saboresdechaves.pt/" target="_blank" class="link-sabores">Sabores de Chaves</a> .
+      </p>
+    </ion-card-content>
+    
+
+  
+
+  </ion-card>
+
+
+
+</ion-content>

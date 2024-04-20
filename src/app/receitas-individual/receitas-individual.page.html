@@ -1,0 +1,51 @@
+<ion-header [translucent]="true">
+  <ion-toolbar class="cabecalho-custom">
+    <ion-title>
+      <div class="titulo-custom">{{ InfoReceita.nome }}</div>
+    </ion-title>
+    <ion-buttons slot="start" class="botao-branco">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">{{ InfoReceita.nome }}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card>
+    <img id="img" src="./assets/{{ InfoReceita.imagem }}" />
+    <ion-card-header>
+      <ion-card-title>{{ InfoReceita.nome }}</ion-card-title>
+    </ion-card-header>
+
+    
+    <!-- quando tem varios tipos da receita ele vai variando consoante o que tem dentro da informação -->
+    <ion-card-content>
+      <p><strong>Descrição:</strong> {{ InfoReceita.descricao.texto }}</p>
+  
+      <ng-container *ngFor="let chave of obterChavesIngredientes()">
+          <p *ngIf="InfoReceita.receita.ingredientes[chave].length > 0">
+              <strong>Receita (Ingredientes - {{ chave.charAt(0).toUpperCase() + chave.slice(1) }}):</strong>
+          </p>
+          <ul *ngIf="InfoReceita.receita.ingredientes[chave].length > 0">
+              <li *ngFor="let ingrediente of InfoReceita.receita.ingredientes[chave]">{{ ingrediente }}</li>
+          </ul>
+      </ng-container>
+  
+      <p *ngIf="InfoReceita.receita.instrucoes.length > 0">
+          <strong>Receita (Instruções):</strong>
+      </p>
+      <ul *ngIf="InfoReceita.receita.instrucoes.length > 0">
+          <li *ngFor="let instrucao of InfoReceita.receita.instrucoes">{{ instrucao }}</li>
+      </ul>
+  
+  
+      <p><strong>História:</strong> {{ InfoReceita.historia }}</p>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
